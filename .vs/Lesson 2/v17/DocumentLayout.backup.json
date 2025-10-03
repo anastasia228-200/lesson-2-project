@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\attempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\usertextanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\testresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\userselectedoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\userattemptsanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\userattemptsanswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:answertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:testtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\lesson_2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:lesson_2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|c:\\users\\omnip\\source\\repos\\anastasia228-200\\kod\\lesson_2\\lesson_2\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDE3456-F25B-EFB8-EA2D-F7413ED3F190}|Lesson 2.csproj|solutionrelative:controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Answer.cs",
+              "RelativeToolTip": "Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T18:35:23.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Models\\Test.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Test.cs",
+              "RelativeToolTip": "Models\\Test.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:05:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attempt.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Attempt.cs",
+              "RelativeDocumentMoniker": "Models\\Attempt.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Attempt.cs",
+              "RelativeToolTip": "Models\\Attempt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:40:00.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserTextAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserTextAnswer.cs",
+              "RelativeDocumentMoniker": "Models\\UserTextAnswer.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserTextAnswer.cs",
+              "RelativeToolTip": "Models\\UserTextAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:54:48.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSelectedOption.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserSelectedOption.cs",
+              "RelativeDocumentMoniker": "Models\\UserSelectedOption.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserSelectedOption.cs",
+              "RelativeToolTip": "Models\\UserSelectedOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:48:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:17:56.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAttemptsAnswer.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserAttemptsAnswer.cs",
+              "RelativeDocumentMoniker": "Models\\UserAttemptsAnswer.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\UserAttemptsAnswer.cs",
+              "RelativeToolTip": "Models\\UserAttemptsAnswer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:43:50.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Answer.cs",
+              "RelativeDocumentMoniker": "Models\\Answer.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Answer.cs",
+              "RelativeToolTip": "Models\\Answer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:28:29.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwJkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:46:41.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestResult.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\TestResult.cs",
+              "RelativeDocumentMoniker": "Models\\TestResult.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\TestResult.cs",
+              "RelativeToolTip": "Models\\TestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T07:59:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "Models\\Question.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Question.cs",
+              "RelativeToolTip": "Models\\Question.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T20:38:45.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnswerType.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\AnswerType.cs",
+              "RelativeDocumentMoniker": "AnswerType.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\AnswerType.cs",
+              "RelativeToolTip": "AnswerType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:56:12.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Direction.cs",
+              "RelativeDocumentMoniker": "Models\\Direction.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Direction.cs",
+              "RelativeToolTip": "Models\\Direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:55:44.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "Models\\Project.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Project.cs",
+              "RelativeToolTip": "Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:56:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:53:58.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Models\\Group.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Group.cs",
+              "RelativeToolTip": "Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T17:55:54.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:40:08.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:20:27.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\UserRole.cs",
+              "RelativeDocumentMoniker": "UserRole.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\UserRole.cs",
+              "RelativeToolTip": "UserRole.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:53:34.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestType.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\TestType.cs",
+              "RelativeDocumentMoniker": "TestType.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\TestType.cs",
+              "RelativeToolTip": "TestType.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T14:54:33.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:40:12.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lesson_2.http",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Lesson_2.http",
+              "RelativeDocumentMoniker": "Lesson_2.http",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Lesson_2.http",
+              "RelativeToolTip": "Lesson_2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-02T09:53:53.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\omnip\\source\\repos\\anastasia228-200\\KOD\\Lesson_2\\Lesson_2\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:48:02.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

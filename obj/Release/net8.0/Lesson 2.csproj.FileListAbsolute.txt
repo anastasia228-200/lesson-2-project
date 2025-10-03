@@ -1,0 +1,8 @@
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.csproj.AssemblyReference.cache
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.AssemblyInfoInputs.cache
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.AssemblyInfo.cs
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.csproj.CoreCompileInputs.cache
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omnip\source\repos\anastasia228-200\KOD\Lesson_2\Lesson_2\obj\Release\net8.0\Lesson 2.MvcApplicationPartsAssemblyInfo.cache
