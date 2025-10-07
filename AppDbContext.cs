@@ -109,6 +109,22 @@ namespace Lesson_2
                 e.Property(t => t.IsPublic).HasDefaultValue(false);
                 e.Property(t => t.PassingScore).IsRequired(false);
                 e.Property(t => t.MaxAttempts).IsRequired(false);
+
+                e.HasMany(x => x.Groups)
+                    .WithMany(g => g.Tests)
+                    .UsingEntity(j => j.ToTable("test_groups"));
+
+                e.HasMany(x => x.Projects)
+                    .WithMany(p => p.Tests)
+                    .UsingEntity(j => j.ToTable("test_groups"));
+
+                e.HasMany(x => x.Courses)
+                    .WithMany(c => c.Tests)
+                    .UsingEntity(j => j.ToTable("test_groups"));
+
+                e.HasMany(x => x.Directions)
+                    .WithMany(d => d.Tests)
+                    .UsingEntity(j => j.ToTable("test_groups"));
             });
 
             modelBuilder.Entity<Question>(e =>
